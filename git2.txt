@@ -1,4 +1,6 @@
 the following are working areasnin local git repo
 i. working area
 2. staging area
-3. commit area
+3. commit are
+
+lets now learn about remote repo
