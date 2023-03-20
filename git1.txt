@@ -1,4 +1,7 @@
-Fredolinw
+Jomacs provides services in the following areas
+web development
+Devops Engineering
+Software Deveopment
 12345
 koijiko
 
